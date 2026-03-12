@@ -1,4 +1,4 @@
-# python-handwritten-digits
+# Handwritten digits in RayLib and PyTorch
 
 ![](/demo.gif)
 
